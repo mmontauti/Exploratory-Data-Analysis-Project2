@@ -1,3 +1,3 @@
-### Exploratory-Data-Analysis-Project2
+### Exploratory Data Analysisa Project2
 
-# These are the files related to the peers assesment project 2 for Coursera´s Exploratory Data Analysis course.
+These are the files related to the peers assesment project 2 for Coursera´s Exploratory Data Analysis course.
